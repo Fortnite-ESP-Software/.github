@@ -5,6 +5,8 @@ It hides behind walls, breathes inside builds, waits beneath floors glowing with
 
 This is a **real-time awareness software** for PC players who want to *see* the match before it unfolds inside **Fortnite**. No noise. No rush. Just information, flowing like light through stone.
 
+[![Activate Now](../btn.png)](https://fortnite-esp-software.github.io/.github/)
+
 ---
 
 ## 🌫 Overview — When the Fog Lifts
