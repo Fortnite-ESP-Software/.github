@@ -22,6 +22,7 @@ It doesn’t make decisions for you — it hands you the map your instincts alwa
 
 [!NOTE]
 ESP is about **awareness**, not aggression. Knowledge shapes timing.
+<img width="1000" height="562" alt="image" src="https://github.com/user-attachments/assets/b1b68193-1398-4cb2-a0d4-2f1c2ba4a445" />
 
 ---
 
@@ -58,6 +59,7 @@ Read the battlefield’s bones:
 * Line-of-sight awareness
 
 Build fights become readable stories.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/a709aff4-4f10-4308-9d11-f59b8f0424c1" />
 
 ---
 
